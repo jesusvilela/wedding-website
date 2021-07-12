@@ -246,6 +246,7 @@ function initMap() {
         zoom: 15,
         center: location,
         scrollwheel: false
+        mapId: '7dc39b8220a97c4'
     });
 
     var marker = new google.maps.Marker({
